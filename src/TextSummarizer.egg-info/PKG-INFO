@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: TextSummarizer
+Version: 0.0.0
+Summary: A Text Summarization AI
+Home-page: https://github.com/Rashid/Text-Summarization-Project
+Author: Rashid
+Author-email: rashid24601@gmail.com
+Project-URL: Bug Tracker, 
+Description-Content-Type: text/markdown
+
 # Text-summarization
 
 1. Introduction and Github Repository Setup
